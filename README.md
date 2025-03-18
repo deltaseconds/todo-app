@@ -2,7 +2,7 @@
 
 A clean and intuitive task management web application with persistent storage and activity history tracking.
 
-![App Preview](https://i.imgur.com/ARAUbJx.png) *Add your screenshot here*
+![App Preview](https://i.imgur.com/ARAUbJx.png)
 
 ## ✨ Features
 
